@@ -1,6 +1,6 @@
 <?php
 
-// las primeras lineas de codigo estan comentadas, son para el uso de la aplicacion
+//  las primeras lineas de codigo estan comentadas, son para el uso de la aplicacion
 // con el formulario en index.php. El script no comentado ejecuta el programa sin
 // necesidad del forumlario
 
